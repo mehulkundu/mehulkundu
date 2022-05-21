@@ -30,7 +30,7 @@ Hi! There. I am Mehul Kundu. Freelancing UI UX designer and Frontend developer. 
 
 
 ### ✍️Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" style="width: 100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehulkundu&icon=0&color=11)](https://visitcount.itsvg.in)
