@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 # Hi there 👋, My name is Mehul Kundu
 
 <img width="100%" src="https://fueler.io/storage/users/cover_image/mehulkundu_1627978068.png" alt="my banner">
