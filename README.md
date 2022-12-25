@@ -1,10 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
 # Hi there 👋, My name is Mehul Kundu
 
-<img width="100%" src="https://fueler.io/storage/users/cover_image/mehulkundu_1627978068.png" alt="my banner">
+<img width="100%" src="https://pbs.twimg.com/profile_banners/997794687204278272/1671356803/1500x500" alt="my banner">
 
 Hi! There. I am Mehul Kundu. Freelancing UI UX designer and Frontend developer. Have a idea in mind hire me as UI/UX designer. I post a video everyday on YouTube. Side hustle Bohon.co . Generalist at team Fueler.io
 
